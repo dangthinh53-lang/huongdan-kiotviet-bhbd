@@ -2,12 +2,15 @@
 
 <p class="doc-code">TÀI LIỆU 09 · HƯỚNG DẪN NGHIỆP VỤ KIOTVIET</p>
 
+[:material-tag-outline: Mở ứng dụng In tem giá BHBĐ](https://script.google.com/macros/s/AKfycbwLO1nBi8HrV2fkjHU42S5Fk6Nbz6gUvgh9tOBNMS32fVJOZ33NON_qHXPrjc38h8E5/exec){ .md-button .md-button--primary target="_blank" }
+
+
 | Thông tin | Nội dung |
 |---|---|
 | **Mục đích** | In tem giá cài kệ đúng giá bán hiện hành trên KiotViet, đúng mẫu tem và khổ giấy của chuỗi. |
 | **Người thực hiện** | Nhân viên cửa hàng, cửa hàng trưởng |
 | **Thời điểm** | Khi có hàng mới, hàng đổi giá, tem cũ bị mờ/rách, và khi rà soát giá định kỳ |
-| **Đường dẫn ứng dụng** | đường dẫn ứng dụng được Bộ phận Hệ thống gửi riêng qua nhóm Zalo (mở bằng Chrome trên máy tính quầy và lưu vào dấu trang) |
+| **Đường dẫn ứng dụng** | [Mở ứng dụng In tem giá BHBĐ](https://script.google.com/macros/s/AKfycbwLO1nBi8HrV2fkjHU42S5Fk6Nbz6gUvgh9tOBNMS32fVJOZ33NON_qHXPrjc38h8E5/exec) (mở bằng Chrome trên máy tính quầy và lưu vào dấu trang) |
 
 !!! tip "Cách đọc"
     Số trong **vòng tròn đỏ** trên ảnh tương ứng với mục <span class="num">1</span> <span class="num">2</span> <span class="num">3</span>… trong phần chữ của bước đó; **khung đỏ** khoanh vùng cần bấm hoặc cần kiểm tra.
