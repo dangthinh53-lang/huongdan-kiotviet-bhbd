@@ -45,6 +45,7 @@ body,.md-typeset{font-family:Arial,Helvetica,sans-serif}
 .hero .eyebrow{color:var(--vnp-yellow);font-weight:700;font-size:.66rem;letter-spacing:.08em;margin:0}
 .hero .lead{font-size:.86rem;max-width:40rem;opacity:.95}
 .hero .md-button{margin:.6em .5em 0 0}
+.md-typeset .admonition.video{border-color:var(--vnp-blue)}.md-typeset .video>.admonition-title{background:rgba(0,82,153,.1)}.md-typeset .video>.admonition-title::before{background-color:var(--vnp-blue);-webkit-mask-image:var(--md-admonition-icon--example);mask-image:var(--md-admonition-icon--example)}
 .md-typeset .md-button--primary{background:var(--vnp-yellow);border-color:var(--vnp-yellow);color:var(--vnp-navy)!important;font-weight:700}
 .md-typeset .md-button--primary:hover{background:var(--vnp-yellow2);border-color:var(--vnp-yellow2)}
 .md-typeset .hero .md-button--ghost{color:#fff!important;border-color:rgba(255,255,255,.7)}

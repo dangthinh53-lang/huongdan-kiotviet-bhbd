@@ -2,6 +2,11 @@
 
 <p class="doc-code">TÀI LIỆU 01 · HƯỚNG DẪN NGHIỆP VỤ KIOTVIET</p>
 
+!!! video "Video hướng dẫn (có giọng đọc)"
+    <video controls preload="metadata" playsinline style="width:100%;border-radius:8px" src="../video/01.mp4"></video>
+
+    [:material-download: Tải video về máy](video/01.mp4){ download }
+
 | Thông tin | Nội dung |
 |---|---|
 | **Mục đích** | Thực hiện một giao dịch bán lẻ tại quầy trên KiotViet, từ lúc mở màn hình bán hàng đến khi hoàn thành hóa đơn, kể cả khi khách thanh toán bằng voucher. |
