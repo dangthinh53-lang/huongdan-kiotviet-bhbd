@@ -57,6 +57,14 @@ hide:
 
     [:octicons-arrow-right-24: Xem hướng dẫn](03-dat-hang-nhap-ncc.md)
 
+-   :material-file-search-outline:{ .lg .middle } <span class="code">12</span> **Tìm phiếu đặt hàng nhập (pdn) và tạo phiếu nhập kho**
+
+    ---
+
+    Tìm đúng phiếu đặt hàng nhập (mã PDN…) của nhà cung cấp đang giao hàng.
+
+    [:octicons-arrow-right-24: Xem hướng dẫn](12-tim-pdn-va-tao-phieu-nhap.md)
+
 -   :material-truck-delivery-outline:{ .lg .middle } <span class="code">04</span> **Nhập hàng**
 
     ---
