@@ -1,0 +1,40 @@
+site_name: Hướng dẫn nghiệp vụ KiotViet – BHBĐ
+site_description: Bộ tài liệu hướng dẫn nghiệp vụ KiotViet cho các cửa hàng Bách Hóa Bưu Điện
+copyright: Bộ phận Hệ thống BU BHBĐ
+theme:
+  name: material
+  language: vi
+  palette:
+    primary: blue
+    accent: red
+  features:
+    - navigation.instant
+    - navigation.top
+    - search.highlight
+    - content.tooltips
+    - toc.follow
+extra_css:
+  - stylesheets/extra.css
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+plugins:
+  - search:
+      lang: en
+nav:
+  - Trang chủ: index.md
+  - "01. Bán hàng tại quầy": 01-ban-hang-tai-quay.md
+  - "02. Trả hàng và đổi hàng": 02-tra-hang-doi-hang.md
+  - "03. Đặt hàng nhập từ nhà cung cấp": 03-dat-hang-nhap-ncc.md
+  - "04. Nhập hàng": 04-nhap-hang.md
+  - "05. Chuyển hàng và nhận hàng giữa các cửa hàng": 05-chuyen-hang-nhan-hang.md
+  - "06. Kiểm kho": 06-kiem-kho.md
+  - "07. Xuất hủy hàng hóa": 07-xuat-huy.md
+  - "08. Sổ quỹ, báo cáo cuối ngày và xác định tiền nộp": 08-so-quy-bao-cao-cuoi-ngay.md
+  - "09. In tem giá cài kệ": 09-in-tem-gia-cai-ke.md
+  - "10. Kiểm tra tồn kho và xuất dữ liệu tồn kho": 10-kiem-tra-va-xuat-ton-kho.md
+  - "11. Xuất chi tiết hóa đơn bán hàng (tách thuế) cho kế toán": 11-xuat-chi-tiet-hoa-don-tach-thue.md
