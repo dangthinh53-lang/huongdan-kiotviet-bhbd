@@ -1,4 +1,6 @@
-# 07. Xuất hủy hàng hóa
+# Xuất hủy hàng hóa
+
+<p class="doc-code">TÀI LIỆU 07 · HƯỚNG DẪN NGHIỆP VỤ KIOTVIET</p>
 
 | Thông tin | Nội dung |
 |---|---|

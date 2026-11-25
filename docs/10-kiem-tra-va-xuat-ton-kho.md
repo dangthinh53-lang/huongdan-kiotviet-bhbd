@@ -1,4 +1,6 @@
-# 10. Kiểm tra tồn kho và xuất dữ liệu tồn kho
+# Kiểm tra tồn kho và xuất dữ liệu tồn kho
+
+<p class="doc-code">TÀI LIỆU 10 · HƯỚNG DẪN NGHIỆP VỤ KIOTVIET</p>
 
 | Thông tin | Nội dung |
 |---|---|

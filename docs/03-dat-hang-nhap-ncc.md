@@ -1,4 +1,6 @@
-# 03. Đặt hàng nhập từ nhà cung cấp
+# Đặt hàng nhập từ nhà cung cấp
+
+<p class="doc-code">TÀI LIỆU 03 · HƯỚNG DẪN NGHIỆP VỤ KIOTVIET</p>
 
 | Thông tin | Nội dung |
 |---|---|

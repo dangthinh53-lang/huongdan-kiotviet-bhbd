@@ -1,4 +1,6 @@
-# 11. Xuất chi tiết hóa đơn bán hàng (tách thuế) cho kế toán
+# Xuất chi tiết hóa đơn bán hàng (tách thuế) cho kế toán
+
+<p class="doc-code">TÀI LIỆU 11 · HƯỚNG DẪN NGHIỆP VỤ KIOTVIET</p>
 
 | Thông tin | Nội dung |
 |---|---|
@@ -116,7 +118,7 @@ Các cột gốc: **U** = Tổng tiền hàng, **V** = Giảm giá hóa đơn, *
 | 176133 | 10.556 | 1.000 | 687 | 9.869 | 789 | 10.658 | 8 |
 | **Cộng** | **15.371** |   | **1.000** | **14.371** | **1.149** | **15.520** |   |
 
-!!! danger "KIỂM TRA:  Σ SAU THUẾ (AZ)  =  KHÁCH CẦN TRẢ (Y)"
+!!! important "KIỂM TRA:  Σ SAU THUẾ (AZ)  =  KHÁCH CẦN TRẢ (Y)"
     Tổng cột AX của mỗi hóa đơn phải bằng **Giảm giá hóa đơn**; tổng cột AU bằng cột **VAT**; tổng cột AZ bằng **Khách cần trả**.
 
     Nếu lệch 1–2 đồng do làm tròn, cộng/trừ phần chênh vào dòng có thành tiền lớn nhất của hóa đơn đó.

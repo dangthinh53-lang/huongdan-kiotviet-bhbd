@@ -1,4 +1,6 @@
-# 06. Kiểm kho
+# Kiểm kho
+
+<p class="doc-code">TÀI LIỆU 06 · HƯỚNG DẪN NGHIỆP VỤ KIOTVIET</p>
 
 | Thông tin | Nội dung |
 |---|---|

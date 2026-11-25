@@ -1,4 +1,6 @@
-# 01. Bán hàng tại quầy
+# Bán hàng tại quầy
+
+<p class="doc-code">TÀI LIỆU 01 · HƯỚNG DẪN NGHIỆP VỤ KIOTVIET</p>
 
 | Thông tin | Nội dung |
 |---|---|

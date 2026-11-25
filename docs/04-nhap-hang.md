@@ -1,4 +1,6 @@
-# 04. Nhập hàng
+# Nhập hàng
+
+<p class="doc-code">TÀI LIỆU 04 · HƯỚNG DẪN NGHIỆP VỤ KIOTVIET</p>
 
 | Thông tin | Nội dung |
 |---|---|

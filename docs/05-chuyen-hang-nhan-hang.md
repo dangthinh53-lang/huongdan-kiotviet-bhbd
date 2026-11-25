@@ -1,4 +1,6 @@
-# 05. Chuyển hàng và nhận hàng giữa các cửa hàng
+# Chuyển hàng và nhận hàng giữa các cửa hàng
+
+<p class="doc-code">TÀI LIỆU 05 · HƯỚNG DẪN NGHIỆP VỤ KIOTVIET</p>
 
 | Thông tin | Nội dung |
 |---|---|

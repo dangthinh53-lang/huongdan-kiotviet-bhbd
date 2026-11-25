@@ -1,18 +1,24 @@
 site_name: Hướng dẫn nghiệp vụ KiotViet – BHBĐ
 site_description: Bộ tài liệu hướng dẫn nghiệp vụ KiotViet cho các cửa hàng Bách Hóa Bưu Điện
-copyright: Bộ phận Hệ thống BU BHBĐ
+copyright: Tổng công ty Bưu điện Việt Nam · Bách Hóa Bưu Điện – Bộ phận Hệ thống BU BHBĐ
 theme:
   name: material
   language: vi
+  font: false
+  icon:
+    logo: material/storefront-outline
+  favicon: assets/favicon.svg
   palette:
-    primary: blue
-    accent: red
+    primary: custom
+    accent: custom
   features:
     - navigation.instant
     - navigation.top
+    - navigation.footer
     - search.highlight
-    - content.tooltips
     - toc.follow
+extra:
+  generator: false
 extra_css:
   - stylesheets/extra.css
 markdown_extensions:
@@ -20,6 +26,9 @@ markdown_extensions:
   - attr_list
   - md_in_html
   - tables
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - toc:
       permalink: true
 plugins:

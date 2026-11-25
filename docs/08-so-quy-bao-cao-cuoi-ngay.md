@@ -1,4 +1,6 @@
-# 08. Sổ quỹ, báo cáo cuối ngày và xác định tiền nộp
+# Sổ quỹ, báo cáo cuối ngày và xác định tiền nộp
+
+<p class="doc-code">TÀI LIỆU 08 · HƯỚNG DẪN NGHIỆP VỤ KIOTVIET</p>
 
 | Thông tin | Nội dung |
 |---|---|
@@ -54,7 +56,7 @@ Theo hướng dẫn của TTKD (đã thống nhất với Kế toán), các cử
 <span class="num">4</span> Lấy số ở cột **Giá trị**, dòng **Hóa đơn**.  
 <span class="num">5</span> Lấy số ở cột **Voucher**, dòng **Hóa đơn**.  
 
-!!! danger "SỐ TIỀN NỘP VỀ TỈNH = GIÁ TRỊ − VOUCHER"
+!!! important "SỐ TIỀN NỘP VỀ TỈNH = GIÁ TRỊ − VOUCHER"
     Ví dụ: Giá trị **3.906.805** − Voucher **20.000** = **3.886.805 đồng**
 
     **Không** lấy số Tiền mặt và Chuyển khoản ở bảng **Tổng kết thu chi** phía trên.
