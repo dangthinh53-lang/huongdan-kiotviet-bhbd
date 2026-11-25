@@ -2,6 +2,11 @@
 
 <p class="doc-code">TÀI LIỆU 04 · HƯỚNG DẪN NGHIỆP VỤ KIOTVIET</p>
 
+!!! video "Video hướng dẫn (có giọng đọc)"
+    <video controls preload="metadata" playsinline style="width:100%;border-radius:8px" src="../video/04.mp4"></video>
+
+    [:material-download: Tải video về máy](video/04.mp4){ download }
+
 | Thông tin | Nội dung |
 |---|---|
 | **Mục đích** | Ghi nhận hàng NCC giao vào tồn kho cửa hàng, đúng số lượng thực nhận và đúng phiếu đặt hàng. |

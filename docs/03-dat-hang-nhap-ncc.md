@@ -2,6 +2,11 @@
 
 <p class="doc-code">TÀI LIỆU 03 · HƯỚNG DẪN NGHIỆP VỤ KIOTVIET</p>
 
+!!! video "Video hướng dẫn (có giọng đọc)"
+    <video controls preload="metadata" playsinline style="width:100%;border-radius:8px" src="../video/03.mp4"></video>
+
+    [:material-download: Tải video về máy](video/03.mp4){ download }
+
 | Thông tin | Nội dung |
 |---|---|
 | **Mục đích** | Lập phiếu đặt hàng nhập gửi nhà cung cấp (NCC) trên KiotViet, làm căn cứ để nhận và nhập hàng khi hàng về. |

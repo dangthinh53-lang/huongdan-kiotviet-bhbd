@@ -2,6 +2,11 @@
 
 <p class="doc-code">TÀI LIỆU 06 · HƯỚNG DẪN NGHIỆP VỤ KIOTVIET</p>
 
+!!! video "Video hướng dẫn (có giọng đọc)"
+    <video controls preload="metadata" playsinline style="width:100%;border-radius:8px" src="../video/06.mp4"></video>
+
+    [:material-download: Tải video về máy](video/06.mp4){ download }
+
 | Thông tin | Nội dung |
 |---|---|
 | **Mục đích** | Đếm hàng thực tế và cân bằng tồn kho trên KiotViet theo số thực tế. |

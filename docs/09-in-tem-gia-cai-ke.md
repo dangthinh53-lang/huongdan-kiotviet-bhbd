@@ -5,6 +5,11 @@
 [:material-tag-outline: Mở ứng dụng In tem giá BHBĐ](https://script.google.com/macros/s/AKfycbwLO1nBi8HrV2fkjHU42S5Fk6Nbz6gUvgh9tOBNMS32fVJOZ33NON_qHXPrjc38h8E5/exec){ .md-button .md-button--primary target="_blank" }
 
 
+!!! video "Video hướng dẫn (có giọng đọc)"
+    <video controls preload="metadata" playsinline style="width:100%;border-radius:8px" src="../video/09.mp4"></video>
+
+    [:material-download: Tải video về máy](video/09.mp4){ download }
+
 | Thông tin | Nội dung |
 |---|---|
 | **Mục đích** | In tem giá cài kệ đúng giá bán hiện hành trên KiotViet, đúng mẫu tem và khổ giấy của chuỗi. |

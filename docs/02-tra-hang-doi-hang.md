@@ -2,6 +2,11 @@
 
 <p class="doc-code">TÀI LIỆU 02 · HƯỚNG DẪN NGHIỆP VỤ KIOTVIET</p>
 
+!!! video "Video hướng dẫn (có giọng đọc)"
+    <video controls preload="metadata" playsinline style="width:100%;border-radius:8px" src="../video/02.mp4"></video>
+
+    [:material-download: Tải video về máy](video/02.mp4){ download }
+
 | Thông tin | Nội dung |
 |---|---|
 | **Mục đích** | Nhận lại hàng khách đã mua và hoàn tiền, hoặc đổi sang hàng khác, theo đúng hóa đơn gốc. |

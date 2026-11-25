@@ -2,6 +2,11 @@
 
 <p class="doc-code">TÀI LIỆU 10 · HƯỚNG DẪN NGHIỆP VỤ KIOTVIET</p>
 
+!!! video "Video hướng dẫn (có giọng đọc)"
+    <video controls preload="metadata" playsinline style="width:100%;border-radius:8px" src="../video/10.mp4"></video>
+
+    [:material-download: Tải video về máy](video/10.mp4){ download }
+
 | Thông tin | Nội dung |
 |---|---|
 | **Mục đích** | Tra cứu nhanh tồn kho từng mặt hàng, xem lịch sử nhập – xuất, và xuất báo cáo giá trị kho của cửa hàng ra file Excel/PDF. |

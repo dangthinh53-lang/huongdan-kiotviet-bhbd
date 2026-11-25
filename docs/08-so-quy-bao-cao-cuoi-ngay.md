@@ -2,6 +2,11 @@
 
 <p class="doc-code">TÀI LIỆU 08 · HƯỚNG DẪN NGHIỆP VỤ KIOTVIET</p>
 
+!!! video "Video hướng dẫn (có giọng đọc)"
+    <video controls preload="metadata" playsinline style="width:100%;border-radius:8px" src="../video/08.mp4"></video>
+
+    [:material-download: Tải video về máy](video/08.mp4){ download }
+
 | Thông tin | Nội dung |
 |---|---|
 | **Mục đích** | Đối soát tiền thu chi trong ngày, xem báo cáo cuối ngày và xác định số tiền phải nộp về tỉnh. |

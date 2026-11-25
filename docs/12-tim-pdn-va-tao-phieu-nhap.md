@@ -2,6 +2,11 @@
 
 <p class="doc-code">TÀI LIỆU 12 · HƯỚNG DẪN NGHIỆP VỤ KIOTVIET</p>
 
+!!! video "Video hướng dẫn (có giọng đọc)"
+    <video controls preload="metadata" playsinline style="width:100%;border-radius:8px" src="../video/12.mp4"></video>
+
+    [:material-download: Tải video về máy](video/12.mp4){ download }
+
 | Thông tin | Nội dung |
 |---|---|
 | **Mục đích** | Tìm đúng phiếu đặt hàng nhập (mã PDN…) của nhà cung cấp đang giao hàng, rồi tạo phiếu nhập kho từ chính phiếu đó để phiếu nhập liên kết với phiếu đặt. |

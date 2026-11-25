@@ -2,6 +2,11 @@
 
 <p class="doc-code">TÀI LIỆU 05 · HƯỚNG DẪN NGHIỆP VỤ KIOTVIET</p>
 
+!!! video "Video hướng dẫn (có giọng đọc)"
+    <video controls preload="metadata" playsinline style="width:100%;border-radius:8px" src="../video/05.mp4"></video>
+
+    [:material-download: Tải video về máy](video/05.mp4){ download }
+
 | Thông tin | Nội dung |
 |---|---|
 | **Mục đích** | Điều chuyển hàng từ cửa hàng này sang cửa hàng khác trong chuỗi, bảo đảm tồn kho hai bên khớp với hàng thực tế. |

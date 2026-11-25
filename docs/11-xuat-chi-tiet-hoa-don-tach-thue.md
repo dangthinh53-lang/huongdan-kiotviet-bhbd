@@ -2,6 +2,11 @@
 
 <p class="doc-code">TÀI LIỆU 11 · HƯỚNG DẪN NGHIỆP VỤ KIOTVIET</p>
 
+!!! video "Video hướng dẫn (có giọng đọc)"
+    <video controls preload="metadata" playsinline style="width:100%;border-radius:8px" src="../video/11.mp4"></video>
+
+    [:material-download: Tải video về máy](video/11.mp4){ download }
+
 | Thông tin | Nội dung |
 |---|---|
 | **Mục đích** | Xuất file Excel chi tiết từng hóa đơn bán hàng: mã giao dịch, mã hàng, số lượng, thành tiền, thuế suất %, giá trị thuế, giá trị sau thuế, để kế toán xuất hóa đơn và hạch toán doanh thu. |

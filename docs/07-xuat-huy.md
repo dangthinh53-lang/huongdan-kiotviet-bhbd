@@ -2,6 +2,11 @@
 
 <p class="doc-code">TÀI LIỆU 07 · HƯỚNG DẪN NGHIỆP VỤ KIOTVIET</p>
 
+!!! video "Video hướng dẫn (có giọng đọc)"
+    <video controls preload="metadata" playsinline style="width:100%;border-radius:8px" src="../video/07.mp4"></video>
+
+    [:material-download: Tải video về máy](video/07.mp4){ download }
+
 | Thông tin | Nội dung |
 |---|---|
 | **Mục đích** | Ghi giảm tồn kho các mặt hàng hư hỏng, hết hạn, không bán được. |
