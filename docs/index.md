@@ -65,11 +65,11 @@ hide:
 
     [:octicons-arrow-right-24: Xem hướng dẫn](12-tim-pdn-va-tao-phieu-nhap.md)
 
--   :material-truck-delivery-outline:{ .lg .middle } <span class="code">04</span> **Nhập hàng**
+-   :material-truck-delivery-outline:{ .lg .middle } <span class="code">04</span> **Nhập hàng theo đơn đặt hàng của tct**
 
     ---
 
-    Ghi nhận hàng NCC giao vào tồn kho cửa hàng.
+    Nhập kho hàng NCC giao **theo đúng đơn đặt hàng do TCT (TTĐH) đặt**.
 
     [:octicons-arrow-right-24: Xem hướng dẫn](04-nhap-hang.md)
 

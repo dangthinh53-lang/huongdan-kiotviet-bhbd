@@ -119,7 +119,7 @@ Mở thẻ kho của mặt hàng 332027 (Hàng hóa → tìm mã → tab **Thẻ
 !!! important "HÀNG VỀ → KIỂM ĐẾM → TẠO PHIẾU NHẬP (HOÀN THÀNH) → MỚI ĐƯỢC BÀY BÁN"
     Tạo phiếu nhập **ngay trong ngày** hàng về, từ phiếu đặt hàng nhập (tài liệu 12). Hàng chưa có phiếu nhập Hoàn thành thì **chưa đưa ra kệ**.
 
-    Cuối ngày lọc **Tồn kho = Hết hàng trong kho** trên báo cáo này; dòng nào **tồn âm** phải tạo phiếu nhập còn thiếu hoặc báo cửa hàng trưởng kiểm tra ngay.
+    Cuối ngày lọc **Tồn kho = Hết hàng trong kho** trên báo cáo này; dòng nào **tồn âm** phải tìm đơn đặt hàng và tạo phiếu nhập từ đơn (tài liệu 12), không có đơn thì báo TTĐH ngay.
 
     Không tự **sửa giá vốn** hay lập **phiếu kiểm kho** để làm tròn số âm. Báo Bộ phận Hệ thống BU BHBĐ để được hướng dẫn xử lý.
 
@@ -128,7 +128,7 @@ Mở thẻ kho của mặt hàng 332027 (Hàng hóa → tìm mã → tab **Thẻ
 
 | Tình huống | Cách xử lý |
 |---|---|
-| Báo cáo có dòng tồn âm | Tìm chứng từ trong Thẻ kho: thường là hóa đơn bán trước phiếu nhập. Tạo phiếu nhập còn thiếu (đúng số lượng, giá nhập theo hóa đơn NCC) rồi báo cửa hàng trưởng. |
+| Báo cáo có dòng tồn âm | Tìm chứng từ trong Thẻ kho: thường là hóa đơn bán trước phiếu nhập. Tìm đơn đặt hàng của TCT và tạo phiếu nhập từ đơn (tài liệu 12); không có đơn thì báo TTĐH, không tự tạo phiếu nhập. |
 | Tồn dương nhưng Giá trị = 0 | Hàng đang có giá vốn 0 (nhập không có giá hoặc chưa từng nhập qua phiếu). Báo Bộ phận Hệ thống để kiểm tra giá vốn trước khi bán tiếp. |
 | Số liệu không khớp với báo cáo Giá trị kho | Kiểm tra cùng chi nhánh và cùng ngày cuối kỳ ở cả hai báo cáo. |
 | Báo cáo chạy chậm hoặc nhiều trang | Thu hẹp thời gian, lọc theo nhóm hàng; muốn đủ dữ liệu thì dùng Xuất tất cả. |

@@ -142,7 +142,7 @@ Quay lại phiếu PDN: nếu nhận **đủ** hàng, phiếu chuyển sang **Ho
 | Không thấy phiếu PDN nào | Kiểm tra lại 3 bộ lọc: Chi nhánh đúng cửa hàng mình, Trạng thái có tick Phiếu tạm / Đã xác nhận NCC / Nhập một phần, Thời gian đủ rộng (Tháng trước, 30 ngày qua hoặc Tùy chỉnh). |
 | Ô tìm còn điều kiện cũ nên danh sách bị thiếu | Bấm dấu × ở cuối ô tìm để xóa điều kiện lọc. |
 | Có nhiều phiếu của cùng một NCC | Đối chiếu ngày đặt, mặt hàng và số lượng với phiếu giao hàng; hỏi NCC hoặc phòng mua hàng mã PDN nếu vẫn không chắc. |
-| Đã có PDN nhưng lại tạo bằng + Nhập hàng | Không làm cách này: phiếu nhập sẽ không liên kết với phiếu đặt, PDN vẫn treo ở trạng thái chờ. Luôn tạo phiếu nhập từ nút Tạo phiếu nhập trên PDN. |
-| Thật sự không có PDN (hàng NCC giao ngoài kế hoạch) | Báo cửa hàng trưởng / phòng mua hàng trước; chỉ khi được đồng ý mới nhập bằng Mua hàng → Nhập hàng → + Nhập hàng (tài liệu 04, cách 2). |
+| Tự tạo phiếu nhập bằng + Nhập hàng | Không được làm: phiếu nhập không liên kết với đơn của TCT, PDN vẫn treo ở trạng thái chờ, dẫn đến lệch hóa đơn thanh toán cho NCC. Luôn tạo phiếu nhập từ nút Tạo phiếu nhập trên PDN. |
+| Không có PDN (hàng NCC giao ngoài đơn của TCT) | Không tự tạo phiếu nhập bằng + Nhập hàng, không bày bán. Báo TTĐH và Bộ phận Hệ thống BU BHBĐ (tài liệu 04). |
 
 **Phím tắt:** F3: tìm hàng hóa trên màn hình Nhập hàng
