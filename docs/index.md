@@ -105,6 +105,14 @@ hide:
 
     [:octicons-arrow-right-24: Xem hướng dẫn](10-kiem-tra-va-xuat-ton-kho.md)
 
+-   :material-chart-box-outline:{ .lg .middle } <span class="code">13</span> **Báo cáo xuất nhập tồn chi tiết và cảnh báo bán hàng trước khi nhập kho**
+
+    ---
+
+    Xem số lượng và giá trị tồn đầu kỳ.
+
+    [:octicons-arrow-right-24: Xem hướng dẫn](13-xuat-nhap-ton-chi-tiet.md)
+
 </div>
 
 ## Tiền, báo cáo và kế toán
