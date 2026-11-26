@@ -2,6 +2,11 @@
 
 <p class="doc-code">TÀI LIỆU 14 · HƯỚNG DẪN NGHIỆP VỤ KIOTVIET</p>
 
+!!! video "Video hướng dẫn (có giọng đọc)"
+    <video controls preload="metadata" playsinline style="width:100%;border-radius:8px" src="../video/14.mp4"></video>
+
+    [:material-download: Tải video về máy](video/14.mp4){ download }
+
 | Thông tin | Nội dung |
 |---|---|
 | **Mục đích** | Hướng dẫn cách nộp tiền đúng khi thu ngân chọn sai hoặc thiếu phương thức thanh toán, và cách phòng tránh lỗi này. |
