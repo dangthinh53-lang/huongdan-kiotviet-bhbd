@@ -127,6 +127,14 @@ hide:
 
     [:octicons-arrow-right-24: Xem hướng dẫn](08-so-quy-bao-cao-cuoi-ngay.md)
 
+-   :material-cash-sync:{ .lg .middle } <span class="code">14</span> **Xử lý khi chọn sai phương thức thanh toán (voucher, tiền mặt, chuyển khoản)**
+
+    ---
+
+    Hướng dẫn cách nộp tiền đúng khi thu ngân chọn sai hoặc thiếu phương thức thanh toán.
+
+    [:octicons-arrow-right-24: Xem hướng dẫn](14-xu-ly-chon-sai-phuong-thuc-thanh-toan.md)
+
 -   :material-file-document-outline:{ .lg .middle } <span class="code">11</span> **Xuất chi tiết hóa đơn bán hàng (tách thuế) cho kế toán**
 
     ---
