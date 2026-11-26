@@ -15,6 +15,28 @@ hide:
 
 </div>
 
+## Bắt đầu
+
+<div class="grid cards" markdown>
+
+-   :material-calendar-check-outline:{ .lg .middle } <span class="code">24</span> **Lịch công việc hằng ngày của cửa hàng trên KiotViet**
+
+    ---
+
+    Checklist các việc phải làm trên KiotViet trong một ngày.
+
+    [:octicons-arrow-right-24: Xem hướng dẫn](24-lich-cong-viec-hang-ngay.md)
+
+-   :material-rocket-launch-outline:{ .lg .middle } <span class="code">23</span> **Bắt đầu với KiotViet cho cửa hàng mới**
+
+    ---
+
+    Chuẩn bị tài khoản.
+
+    [:octicons-arrow-right-24: Xem hướng dẫn](23-bat-dau-voi-kiotviet.md)
+
+</div>
+
 ## Bán hàng tại quầy
 
 <div class="grid cards" markdown>
@@ -27,6 +49,14 @@ hide:
 
     [:octicons-arrow-right-24: Xem hướng dẫn](01-ban-hang-tai-quay.md)
 
+-   :material-account-star-outline:{ .lg .middle } <span class="code">21</span> **Khách hàng thành viên và tích điểm**
+
+    ---
+
+    Tạo và gắn khách hàng thành viên vào hóa đơn đúng cách để khách được tích điểm.
+
+    [:octicons-arrow-right-24: Xem hướng dẫn](21-khach-hang-thanh-vien-tich-diem.md)
+
 -   :material-swap-horizontal:{ .lg .middle } <span class="code">02</span> **Trả hàng và đổi hàng**
 
     ---
@@ -34,6 +64,14 @@ hide:
     Nhận lại hàng khách đã mua và hoàn tiền.
 
     [:octicons-arrow-right-24: Xem hướng dẫn](02-tra-hang-doi-hang.md)
+
+-   :material-receipt-text-remove-outline:{ .lg .middle } <span class="code">16</span> **Xử lý hóa đơn bán sai (hủy, chỉnh sửa, trả hàng)**
+
+    ---
+
+    Thống nhất cách xử lý khi hóa đơn đã thanh toán bị sai hàng.
+
+    [:octicons-arrow-right-24: Xem hướng dẫn](16-huy-sua-hoa-don-ban-sai.md)
 
 -   :material-tag-outline:{ .lg .middle } <span class="code">09</span> **In tem giá cài kệ**
 
@@ -72,6 +110,14 @@ hide:
     Nhập kho hàng NCC giao **theo đúng đơn đặt hàng do TCT (TTĐH) đặt**.
 
     [:octicons-arrow-right-24: Xem hướng dẫn](04-nhap-hang.md)
+
+-   :material-truck-delivery-outline:{ .lg .middle } <span class="code">15</span> **Trả hàng nhà cung cấp (trả hàng nhập)**
+
+    ---
+
+    Trả lại NCC hàng lỗi.
+
+    [:octicons-arrow-right-24: Xem hướng dẫn](15-tra-hang-nha-cung-cap.md)
 
 -   :material-transfer:{ .lg .middle } <span class="code">05</span> **Chuyển hàng và nhận hàng giữa các cửa hàng**
 
@@ -118,6 +164,14 @@ hide:
 ## Tiền, báo cáo và kế toán
 
 <div class="grid cards" markdown>
+
+-   :material-account-switch-outline:{ .lg .middle } <span class="code">18</span> **Giao ca – chốt tiền cuối ca thu ngân**
+
+    ---
+
+    Mỗi ca tự đối chiếu tiền mặt.
+
+    [:octicons-arrow-right-24: Xem hướng dẫn](18-giao-ca-chot-tien-cuoi-ca.md)
 
 -   :material-cash-register:{ .lg .middle } <span class="code">08</span> **Sổ quỹ, báo cáo cuối ngày và xác định tiền nộp**
 
