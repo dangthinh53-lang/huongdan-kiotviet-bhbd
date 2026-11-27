@@ -111,6 +111,14 @@ hide:
 
     [:octicons-arrow-right-24: Xem hướng dẫn](12-tim-pdn-va-tao-phieu-nhap.md)
 
+-   :material-clipboard-clock-outline:{ .lg .middle } <span class="code">26</span> **Kiểm tra đơn đặt hàng chưa nhập kho**
+
+    ---
+
+    Rà soát các đơn đặt hàng nhập (PDN) của TCT/TTĐH **chưa nhập kho hoặc mới nhập một phần**.
+
+    [:octicons-arrow-right-24: Xem hướng dẫn](26-kiem-tra-don-hang-chua-nhap-kho.md)
+
 -   :material-truck-delivery-outline:{ .lg .middle } <span class="code">04</span> **Nhập hàng theo đơn đặt hàng của tct**
 
     ---
