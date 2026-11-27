@@ -73,6 +73,14 @@ hide:
 
     [:octicons-arrow-right-24: Xem hướng dẫn](16-huy-sua-hoa-don-ban-sai.md)
 
+-   :material-file-cancel-outline:{ .lg .middle } <span class="code">25</span> **Hủy hóa đơn đã có phiếu trả hàng**
+
+    ---
+
+    Hủy đúng thứ tự một hóa đơn bán đã phát sinh phiếu trả hàng (và hóa đơn đổi hàng).
+
+    [:octicons-arrow-right-24: Xem hướng dẫn](25-huy-hoa-don-co-phieu-tra-hang.md)
+
 -   :material-tag-outline:{ .lg .middle } <span class="code">09</span> **In tem giá cài kệ**
 
     ---

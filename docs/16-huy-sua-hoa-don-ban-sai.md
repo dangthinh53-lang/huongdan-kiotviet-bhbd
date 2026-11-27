@@ -75,3 +75,4 @@ Sau khi hủy: hóa đơn chuyển sang trạng thái **Đã hủy**, hàng đư
 | Hóa đơn có dùng voucher | Hủy hóa đơn không trả lại voucher cho khách; báo Bộ phận Hệ thống trước khi hủy. |
 | Hóa đơn đã xuất hóa đơn điện tử | Không tự hủy; báo kế toán / Bộ phận Hệ thống để xử lý hóa đơn điện tử trước. |
 | Hóa đơn của ngày trước | Không tự hủy; báo Bộ phận Hệ thống BU BHBĐ kèm mã hóa đơn và lý do. |
+| Hóa đơn đã có phiếu trả hàng | KiotViet không cho hủy ngay; làm theo tài liệu 25 (hủy phiếu trả trước, rồi hủy hóa đơn). |
