@@ -205,6 +205,14 @@ hide:
 
     [:octicons-arrow-right-24: Xem hướng dẫn](14-xu-ly-chon-sai-phuong-thuc-thanh-toan.md)
 
+-   :material-file-percent-outline:{ .lg .middle } <span class="code">27</span> **Kế toán tỉnh lấy báo cáo doanh thu (có thuế / chưa thuế)**
+
+    ---
+
+    Lấy đúng doanh thu bán hàng của **tất cả cửa hàng thuộc tỉnh**.
+
+    [:octicons-arrow-right-24: Xem hướng dẫn](27-bao-cao-doanh-thu-ke-toan-tinh.md)
+
 -   :material-file-document-outline:{ .lg .middle } <span class="code">11</span> **Xuất chi tiết hóa đơn bán hàng (tách thuế) cho kế toán**
 
     ---
