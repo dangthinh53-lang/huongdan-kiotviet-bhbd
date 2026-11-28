@@ -142,7 +142,7 @@ Nếu giá trị voucher nhỏ hơn số khách cần trả: chọn thêm **Ti�
 | Tình huống | Cách xử lý |
 |---|---|
 | Quét mã không ra hàng | Gõ tên hàng vào ô tìm (F3). Vẫn không có thì không tự tạo hàng mới, báo cửa hàng trưởng kiểm tra mã hàng. |
-| Số Tồn âm hoặc bằng 0 nhưng hàng vẫn có trên kệ | Vẫn bán cho khách, sau đó báo cửa hàng trưởng kiểm tra lại phiếu nhập hoặc kiểm kho. |
+| Số Tồn âm hoặc bằng 0 nhưng hàng vẫn có trên kệ | Vẫn bán cho khách, sau đó báo cửa hàng trưởng kiểm tra lại phiếu nhập; kiểm kho chỉ khi được BU BHBĐ xác nhận (tài liệu 06). |
 | Chọn nhầm hàng, sai số lượng trước khi thanh toán | Sửa số lượng hoặc bấm thùng rác để xóa dòng. |
 | Phát hiện sai sau khi đã bấm Hoàn thành | Không bán bù bằng đơn khác. Xử lý bằng nghiệp vụ Trả hàng (tài liệu 02) hoặc báo cửa hàng trưởng. |
 | Khách chuyển khoản | Chỉ bấm Hoàn thành khi đã thấy tiền về tài khoản cửa hàng, và chọn đúng hình thức Chuyển khoản. |

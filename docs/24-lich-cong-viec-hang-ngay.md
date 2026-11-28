@@ -58,7 +58,7 @@
 
 |  | Việc cần làm | Tài liệu | Người làm |
 |---|---|---|---|
-| ☐ | Kiểm kho theo lịch của chuỗi | 06 | CHT |
+| ☐ | Kiểm kho theo lịch của chuỗi; chỉ Hoàn thành khi BU BHBĐ xác nhận | 06 | CHT |
 | ☐ | Xuất tồn kho, giá trị kho gửi Đơn vị khi được yêu cầu | 10, 13 | CHT |
 | ☐ | Xuất chi tiết hóa đơn tách thuế cho kế toán | 11 | CHT / Kế toán |
 

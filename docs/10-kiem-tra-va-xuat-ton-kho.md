@@ -135,7 +135,7 @@ Kéo thanh bên trái xuống để thấy thêm bộ lọc:
 
 | Tình huống | Cách xử lý |
 |---|---|
-| Số tồn trên máy khác số thực tế | Xem Thẻ kho (Bước 3) để tìm chứng từ bất thường; nếu vẫn lệch, báo cửa hàng trưởng lập phiếu Kiểm kho (tài liệu 06). |
+| Số tồn trên máy khác số thực tế | Xem Thẻ kho (Bước 3) để tìm chứng từ bất thường; nếu vẫn lệch, báo cửa hàng trưởng lập phiếu Kiểm kho (Lưu tạm) và gửi BU BHBĐ xác nhận (tài liệu 06). |
 | Tồn kho hiện số âm | Hàng đã bán nhưng chưa nhập phiếu nhập hoặc nhận chuyển hàng. Kiểm tra phiếu nhập/chuyển hàng còn treo. |
 | File xuất ra thiếu mặt hàng | Đã xuất bằng biểu tượng tải xuống (chỉ 2.000 dòng). Dùng Xuất tất cả. |
 | Báo cáo ra số liệu nhiều cửa hàng | Ô Chi nhánh đang chọn nhiều chi nhánh; xóa bớt, chỉ để cửa hàng của mình. |
