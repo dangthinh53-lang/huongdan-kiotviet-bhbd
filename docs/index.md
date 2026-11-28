@@ -35,6 +35,30 @@ hide:
 
     [:octicons-arrow-right-24: Xem hướng dẫn](23-bat-dau-voi-kiotviet.md)
 
+-   :material-frequently-asked-questions:{ .lg .middle } <span class="code">37</span> **Câu hỏi thường gặp (faq)**
+
+    ---
+
+    Tra cứu nhanh câu trả lời và tài liệu chi tiết cho các tình huống hay gặp.
+
+    [:octicons-arrow-right-24: Xem hướng dẫn](37-cau-hoi-thuong-gap.md)
+
+-   :material-lifebuoy:{ .lg .middle } <span class="code">36</span> **Xử lý sự cố thường gặp**
+
+    ---
+
+    Tự xử lý nhanh các lỗi thường gặp tại quầy và khi làm phiếu.
+
+    [:octicons-arrow-right-24: Xem hướng dẫn](36-xu-ly-su-co-thuong-gap.md)
+
+-   :material-account-key-outline:{ .lg .middle } <span class="code">35</span> **Tài khoản nhân viên: mới, nghỉ việc, chuyển cửa hàng**
+
+    ---
+
+    Quy trình yêu cầu **cấp.
+
+    [:octicons-arrow-right-24: Xem hướng dẫn](35-tai-khoan-nhan-vien.md)
+
 </div>
 
 ## Bán hàng tại quầy
@@ -80,6 +104,14 @@ hide:
     Hủy đúng thứ tự một hóa đơn bán đã phát sinh phiếu trả hàng (và hóa đơn đổi hàng).
 
     [:octicons-arrow-right-24: Xem hướng dẫn](25-huy-hoa-don-co-phieu-tra-hang.md)
+
+-   :material-qrcode-scan:{ .lg .middle } <span class="code">29</span> **Thanh toán chuyển khoản, qr và voucher đúng cách tại quầy**
+
+    ---
+
+    Chọn **đúng phương thức thanh toán ngay khi bán**.
+
+    [:octicons-arrow-right-24: Xem hướng dẫn](29-thanh-toan-chuyen-khoan-qr-voucher.md)
 
 -   :material-tag-outline:{ .lg .middle } <span class="code">09</span> **In tem giá cài kệ**
 
@@ -127,6 +159,14 @@ hide:
 
     [:octicons-arrow-right-24: Xem hướng dẫn](04-nhap-hang.md)
 
+-   :material-package-variant-closed-check:{ .lg .middle } <span class="code">28</span> **Nhận hàng thiếu, thừa, hỏng so với đơn đặt hàng**
+
+    ---
+
+    Nhập kho **đúng số thực nhận** khi NCC giao thiếu.
+
+    [:octicons-arrow-right-24: Xem hướng dẫn](28-nhan-hang-thieu-thua-hong.md)
+
 -   :material-truck-delivery-outline:{ .lg .middle } <span class="code">15</span> **Trả hàng nhà cung cấp (trả hàng nhập)**
 
     ---
@@ -158,6 +198,14 @@ hide:
     Ghi giảm tồn kho các mặt hàng hư hỏng.
 
     [:octicons-arrow-right-24: Xem hướng dẫn](07-xuat-huy.md)
+
+-   :material-calendar-alert:{ .lg .middle } <span class="code">31</span> **Xử lý hàng cận date và hàng hỏng (xuất hủy có xác nhận)**
+
+    ---
+
+    Phát hiện sớm hàng cận date.
+
+    [:octicons-arrow-right-24: Xem hướng dẫn](31-hang-can-date-hang-hong.md)
 
 -   :material-warehouse:{ .lg .middle } <span class="code">10</span> **Kiểm tra tồn kho và xuất dữ liệu tồn kho**
 
@@ -205,6 +253,14 @@ hide:
 
     [:octicons-arrow-right-24: Xem hướng dẫn](14-xu-ly-chon-sai-phuong-thuc-thanh-toan.md)
 
+-   :material-cash-multiple:{ .lg .middle } <span class="code">30</span> **Phiếu thu, phiếu chi trên sổ quỹ**
+
+    ---
+
+    Lập phiếu thu / chi **đúng loại.
+
+    [:octicons-arrow-right-24: Xem hướng dẫn](30-thu-chi-so-quy.md)
+
 -   :material-file-percent-outline:{ .lg .middle } <span class="code">27</span> **Kế toán tỉnh lấy báo cáo doanh thu (có thuế / chưa thuế)**
 
     ---
@@ -212,6 +268,30 @@ hide:
     Lấy đúng doanh thu bán hàng của **tất cả cửa hàng thuộc tỉnh**.
 
     [:octicons-arrow-right-24: Xem hướng dẫn](27-bao-cao-doanh-thu-ke-toan-tinh.md)
+
+-   :material-scale-balance:{ .lg .middle } <span class="code">34</span> **Đối chiếu doanh thu – tiền nộp – sổ quỹ của tỉnh (cuối tháng)**
+
+    ---
+
+    Đối chiếu cuối tháng giữa **doanh thu trên KiotViet**.
+
+    [:octicons-arrow-right-24: Xem hướng dẫn](34-doi-chieu-doanh-thu-tien-nop-tinh.md)
+
+-   :material-warehouse:{ .lg .middle } <span class="code">32</span> **Báo cáo tồn kho và giá trị tồn kho của tỉnh**
+
+    ---
+
+    Lấy số lượng và **giá trị tồn kho** của **tất cả cửa hàng thuộc tỉnh**.
+
+    [:octicons-arrow-right-24: Xem hướng dẫn](32-bao-cao-ton-kho-tinh.md)
+
+-   :material-chart-line:{ .lg .middle } <span class="code">33</span> **Báo cáo lợi nhuận, hàng bán chạy và hàng chậm bán**
+
+    ---
+
+    Xem lợi nhuận gộp theo cửa hàng.
+
+    [:octicons-arrow-right-24: Xem hướng dẫn](33-loi-nhuan-hang-ban-chay-cham.md)
 
 -   :material-file-document-outline:{ .lg .middle } <span class="code">11</span> **Xuất chi tiết hóa đơn bán hàng (tách thuế) cho kế toán**
 
